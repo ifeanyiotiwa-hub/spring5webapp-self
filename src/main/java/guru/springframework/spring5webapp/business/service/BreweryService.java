@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp.service;
+package guru.springframework.spring5webapp.business.service;
 
 import guru.springframework.spring5webapp.model.Brewery;
 
