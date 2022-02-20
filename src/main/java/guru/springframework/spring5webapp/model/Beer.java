@@ -17,13 +17,9 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.UUID;
 
-/**
- * Created by jt on 2019-01-26.
- */
 @Getter
 @Setter
 @Entity
-
 @NoArgsConstructor
 public class Beer extends BaseEntity {
 
